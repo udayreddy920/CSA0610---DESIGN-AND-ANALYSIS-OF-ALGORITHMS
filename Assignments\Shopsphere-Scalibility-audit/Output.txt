@@ -1,0 +1,64 @@
+SHOPSPHERE CO1 SCALABILITY AUDIT
+Assumed rate: 100,000,000 basic operations/second
+
+M2 verification at n=1,024: 1,023 audits
+Expected sum: 1 + 2 + 4 + ... + 512 = 1,023
+
+Scalability estimates
+
+n = 1,000
+M1 comparisons: 499,500
+M2 audits: 1,023
+S2 comparisons (estimate): 11
+M4 current (illustrative): 1,999,000
+M4 redesign (illustrative): 11,000
+M5 recurrence (scale estimate): 99,317
+Report f(n): 3,099,708
+
+n = 10,000
+M1 comparisons: 49,995,000
+M2 audits: 16,383
+S2 comparisons (estimate): 15
+M4 current (illustrative): 199,990,000
+M4 redesign (illustrative): 150,000
+M5 recurrence (scale estimate): 1,765,633
+Report f(n): 301,328,821
+
+n = 100,000
+M1 comparisons: 4,999,950,000
+M2 audits: 131,071
+S2 comparisons (estimate): 18
+M4 current (illustrative): 19,999,900,000
+M4 redesign (illustrative): 1,800,000
+M5 recurrence (scale estimate): 27,588,016
+Report f(n): 30,016,609,690
+
+n = 1,000,000
+M1 comparisons: 499,999,500,000
+M2 audits: 1,048,575
+S2 comparisons (estimate): 21
+M4 current (illustrative): 1,999,999,000,000
+M4 redesign (illustrative): 21,000,000
+M5 recurrence (scale estimate): 397,267,426
+Report f(n): 3,000,199,315,736
+
+Estimated seconds at n=1,000,000
+M1: 499,999,500,000 operations; 4999.995000 seconds
+M2: 1,048,575 operations; 0.010486 seconds
+S2: 21 operations; 0.000000 seconds
+M4 current: 1,999,999,000,000 operations; 19999.990000 seconds
+M4 redesign: 21,000,000 operations; 0.210000 seconds
+M5 recurrence: 397,267,426 operations; 3.972674 seconds
+Report generator f(n): 3,000,199,315,736 operations; 30001.993157 seconds
+
+Saved Scalability_Results.csv
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.
