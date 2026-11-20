@@ -3,7 +3,7 @@ SIMATS ENGINEERING — DESIGN AND ANALYSIS OF ALGORITHMS
 Search, Complexity and Approximation Engineering | 50 Marks
 
 STUDENT
-Name: J. Lokesh
+Name: M Uday Kumar Reddy
 Registration Number: Fill in your correct registration number.
 
 PACKAGE FILES
