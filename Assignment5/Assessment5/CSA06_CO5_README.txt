@@ -1,6 +1,6 @@
 CSA06 CO5 – UNIVERSITY EXAMINATION TIMETABLING
-Prepared for: J. Lokesh
-Registration Number: __________________
+Prepared for: M Uday kumar Reddy
+Registration Number: ___192473022_______________
 
 FILES
 1. CSA06_CO5_Timetable.py
