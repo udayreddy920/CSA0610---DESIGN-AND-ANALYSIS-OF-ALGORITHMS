@@ -3,8 +3,8 @@ SIMATS ENGINEERING — DESIGN AND ANALYSIS OF ALGORITHMS
 Search, Complexity and Approximation Engineering | 50 Marks
 
 STUDENT
-Name: J. Lokesh
-Registration Number: Fill in your correct registration number.
+Name: M Uday Kumar Reddy
+Registration Number: 192473022
 
 PACKAGE FILES
 1. DAA_Assignment_5_All_Codes.py — executable Python implementations for Part B.
