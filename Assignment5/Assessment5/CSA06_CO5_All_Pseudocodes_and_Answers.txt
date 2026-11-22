@@ -2,8 +2,8 @@ CSA06 – DESIGN AND ANALYSIS OF ALGORITHMS
 CO5 – CONSTRAINT-BASED PROBLEM SOLVING
 UNIVERSITY EXAMINATION TIMETABLING
 
-Student Name: J. Lokesh
-Registration Number: __________________
+Student Name: M Uday Kumar Reddy
+Registration Number: 192473022
 
 A. PROBLEM DEFINITION
 
