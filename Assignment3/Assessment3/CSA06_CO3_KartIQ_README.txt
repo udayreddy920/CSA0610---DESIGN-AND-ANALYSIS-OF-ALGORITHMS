@@ -1,7 +1,7 @@
 README — CSA06 CO3: KARTIQ RETAIL DATA ANALYTICS CASE STUDY
 
-Student Name: J. Lokesh
-Registration Number: 192311216
+Student Name: M Uday Kumar Reddy
+Registration Number: 192473022
 Course: CSA06 — Design and Analysis of Algorithms
 Outcome: CO3 — Divide and Conquer
 Mode: Individual
