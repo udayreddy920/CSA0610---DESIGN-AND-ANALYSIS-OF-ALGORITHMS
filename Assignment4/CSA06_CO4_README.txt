@@ -1,5 +1,5 @@
 README — CSA06 CO4: CLOUD RELEASE BUDGET PLANNER
-Student: J. Lokesh | Registration No.: 192311216
+Student: M Uday Kumar Reddy | Registration No.: 192473022
 Course: CSA06 Design and Analysis of Algorithms | CO4
 Topic: Dynamic Programming and Greedy Strategies
 
