@@ -1,6 +1,6 @@
 """
 CSA06 CO5 – University Examination Timetabling
-J. Lokesh | Registration Number: __________________
+M Uday Kumar Reddy| Registration Number: 192473022__________________
 
 Run: python CSA06_CO5_Timetable.py
 The script uses only Python's standard library.
