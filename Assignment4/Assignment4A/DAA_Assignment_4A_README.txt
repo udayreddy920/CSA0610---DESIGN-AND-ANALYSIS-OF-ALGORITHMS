@@ -3,8 +3,8 @@ SIMATS ENGINEERING — DESIGN AND ANALYSIS OF ALGORITHMS
 Algorithmic Design Through Pseudocode | Individual Assignment | 50 Marks
 
 STUDENT
-Name: J. Lokesh
-Registration Number: Please fill in your registration number as required on the cover.
+Name: M Uday Kumar Reddy
+Registration Number: 192473022
 
 IMPORTANT ASSIGNMENT REQUIREMENT
 The source assignment (page 1 and page 17) explicitly says this is not a programming
