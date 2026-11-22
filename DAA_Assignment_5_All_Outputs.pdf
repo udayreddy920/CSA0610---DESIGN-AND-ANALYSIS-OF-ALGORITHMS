@@ -1,0 +1,340 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6601
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 42.85039 782.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL 160.1899 0 Td (DAA Assignment 5 \227 CO5) Tj T* -160.1899 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 752.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Consolidated Outputs, Search Statistics and Test Evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 734.874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Student: J. Lokesh) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 726.874 cm
+Q
+q
+1 0 0 1 42.85039 718.274 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (DAA ASSIGNMENT 5 \227 CO5 | IMPLEMENTATION OUTPUTS) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 709.674 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (\\nB1 \227 GRAPH COLOURING VALIDATION AND SEARCH ORDER) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 701.074 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (5-cycle input-order: \(False, None, {'nodes': 9, 'attempts': 18, 'rejected': 10, 'backtracks': 8, 'max_depth': 4}\) degree-order: \(False, None, {'nodes': 9, 'attempts': 18, 'rejected': 10, 'backtracks': 8, 'max_depth': 4}\)) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 692.474 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (triangle-2-colours input-order: \(False, None, {'nodes': 5, 'attempts': 10, 'rejected': 6, 'backtracks': 4, 'max_depth': 2}\) degree-order: \(False, None, {'nodes': 5, 'attempts': 10, 'rejected': 6, 'backtracks': 4, 'max_depth': 2}\)) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 683.874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (empty-boundary input-order: \(True, [], {'nodes': 1, 'attempts': 0, 'rejected': 0, 'backtracks': 0, 'max_depth': 0}\) degree-order: \(True, [], {'nodes': 1, 'attempts': 0, 'rejected': 0, 'backtracks': 0, 'max_depth': 0}\)) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 675.274 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Note: empty graph boundary has zero vertices; success is an empty colouring.) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 666.674 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (\\nB2 \227 SAME SIZE, DIFFERENT SEARCH BEHAVIOUR) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 658.074 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Prediction: K8 with 3 colours will backtrack more than the 8-cycle.) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 649.474 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Cycle-8 colourable: True colours: [0, 1, 0, 1, 0, 1, 0, 1] stats: {'nodes': 9, 'attempts': 12, 'rejected': 4, 'backtracks': 0, 'max_depth': 8}) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 640.874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Complete-K8 colourable: False colours: None stats: {'nodes': 16, 'attempts': 48, 'rejected': 33, 'backtracks': 15, 'max_depth': 3}) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 632.274 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (\\nB3 \227 EXACT VS GREEDY SET COVER) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 623.674 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Case-1 exact indices: [0, 1] size: 2 combinations: 5 | greedy indices: [0, 1] size: 2 candidate checks: 5) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 615.074 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Case-2 exact indices: [0, 1] size: 2 combinations: 7 | greedy indices: [0, 1] size: 2 candidate checks: 9) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 606.474 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Case-3 exact indices: [0, 1] size: 2 combinations: 6 | greedy indices: [0, 1] size: 2 candidate checks: 7) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 597.874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Greedy-counterexample exact indices: [1, 2] size: 2 combinations: 11 | greedy indices: [0, 1, 2] size: 3 candidate checks: 12) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 589.274 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Scaling: exact subset combinations vs greedy candidate evaluations) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 580.674 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (centres 8 exact combinations 256 greedy candidate checks 36 cover sizes 8 8) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 572.074 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (centres 10 exact combinations 1024 greedy candidate checks 55 cover sizes 10 10) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 563.474 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (centres 12 exact combinations 4096 greedy candidate checks 78 cover sizes 12 12) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 554.874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (centres 14 exact combinations 16384 greedy candidate checks 105 cover sizes 14 14) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 546.274 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (\\nB4 \227 BIN PACKING FIRST-FIT DECREASING) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 537.674 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Capacity: 10 workloads: [6, 6, 4, 4, 4, 2, 2, 2]) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 529.074 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Server 1 workloads [6, 4] used 10 remaining 0) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 520.474 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Server 2 workloads [6, 4] used 10 remaining 0) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 511.874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Server 3 workloads [4, 2, 2, 2] used 10 remaining 0) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 503.274 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Servers used: 3 placements\(original_index, workload, server_index\): [\(0, 6, 0\), \(1, 6, 1\), \(2, 4, 0\), \(3, 4, 1\), \(4, 4, 2\), \(5, 2, 2\), \(6, 2, 2\), \(7, 2, 2\)]) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 494.674 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Volume lower bound: 3 heuristic server count: 3) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 486.074 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (Decision note: FFD is fast \(sorting plus first-fit scans\) but is not guaranteed optimal.) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 477.474 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3 7.1 Tf 8.6 TL (\\nVALIDATION COMPLETE) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 728.8898 505.2756 30 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 52 740.8898 Tm
+(Student\072 M Uday Kumar Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 52 728.8898 Tm
+(Registration Number\072 192473022) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000415 00000 n 
+0000007068 00000 n 
+0000007175 00000 n 
+0000007282 00000 n 
+0000007394 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+7499
+%%EOF
